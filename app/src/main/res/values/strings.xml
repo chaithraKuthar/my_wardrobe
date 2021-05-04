@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Wardrobe</string>
+    <string name="cancel">Cancel</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="error_msg">something went wrong</string>
+    <string name="do_you_want_to_shuffle">Do you want to shuffle?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="image">image</string>
+</resources>
